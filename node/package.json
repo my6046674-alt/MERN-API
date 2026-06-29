@@ -1,0 +1,12 @@
+{
+  "name": "mern-20260320-api",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Manoj Yadav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
